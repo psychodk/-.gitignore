@@ -18,17 +18,17 @@ red='\e[1;31m'
 echo "Loading..." | lolcat
 sleep 2
 clear
-toilet -f future "CYBER KALLAN" | lolcat
+toilet -f future "PSYCHO KILLER" | lolcat
 sleep 2
 clear
 
-figlet MALLU HACKERS | lolcat
+figlet PSYCHO KILLER | lolcat
 
 echo $b"============================================="
 echo   "Team    : 'KCG' Kerala cyber Guardians  $white" |lolcat
-echo   "Creadby  : CYBER KALALN (Arjun arz) $white" |lolcat
-echo   "Contact  : Instagram.com/arz_beats $white" |lolcat
-echo   "YouTube : CYBER KALLAN $white" |lolcat
+echo   "Creadby  : PSYCHO DK (DILU DK) $white" |lolcat
+echo   "Contact  : Instagram.com/I_am_pyscho_dk $white" |lolcat
+echo   "YouTube : PSYCHO KILLER $white" |lolcat
 echo $b"============================================="
 
 ###################################################
